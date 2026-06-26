@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-na1m2c.cuankita.store/sitemap.xml
